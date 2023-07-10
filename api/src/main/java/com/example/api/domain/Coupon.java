@@ -13,9 +13,6 @@ public class Coupon {
 
     private Long userId;
 
-    public Coupon() {
-    }
-
     public Coupon(Long userId) {
         this.userId = userId;
     }
